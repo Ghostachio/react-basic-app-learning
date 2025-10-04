@@ -52,7 +52,7 @@ export const TodoContainer = () => {
       component="section"
       sx={{
         p: 2,
-        border: "1px solid grey",
+
         width: 600,
         margin: " 0 auto",
         marginTop: 10,
